@@ -1,3 +1,3 @@
-#BUGS!!!
-## WHY ARE THERE SO MANY BUGS?
-### WHO PUT ALL THESE BUGS HERE?
+#Bugs we should fix
+## What are the bugs?
+### The bugs inclue:.....
